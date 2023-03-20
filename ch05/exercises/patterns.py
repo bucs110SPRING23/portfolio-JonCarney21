@@ -14,5 +14,12 @@ def star_pyramid():
 
 star_pyramid()
 
-def rstar_pyramid():
-    
+def rstar_pyramid(rows):
+    for i in range(rows, 0, -1):
+        print("*", * i)
+        
+levels = int(input("Enter the desired height of the pyramid: "))
+
+
+rstar_pyramid(levels)
+
