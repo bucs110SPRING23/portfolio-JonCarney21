@@ -7,5 +7,8 @@ My program uses turtle to create a scene of a mountain range. I made these mouta
 none
 
 ## REFERENCES *(any resources you use outside of class materials)*
+w3schools.com
+stackoverflow.com
+python.org
 
 ## MISCELLANEOUS COMMENTS *(anything else you would like the grader to know)*

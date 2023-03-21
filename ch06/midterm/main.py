@@ -89,12 +89,16 @@ def main():
     turtle1.pendown()
     turtle1.color("yellow")
     turtle1.begin_fill()
-    turtle1.circle(125)
+    turtle1.circle(add(100, 25))
     turtle1.end_fill()
 
     screen.exitonclick()
 
+def add(a, b):
+    result = a + b
+    return result
 
+    
 # Mountains
 def make_mountain(turtle, xpos, ypos, color):
     turtle.penup()
