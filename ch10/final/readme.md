@@ -2,7 +2,7 @@
 
 ## SHORT DESCRIPTION 
 
-My prgram allows the user to input a given city and it will return the weather and top news healines for it.
+My program allows a user to input a city of their choice and the program will return information about the weather and the top news headlines.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS 
 There are no know bugs
