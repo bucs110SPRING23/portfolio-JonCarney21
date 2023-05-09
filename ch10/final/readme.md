@@ -5,7 +5,7 @@
 My program allows a user to input a city of their choice and the program will return information about the weather and the top news headlines.
 
 ## KNOWN BUGS AND INCOMPLETE PARTS 
-There are no know bugs
+There are no known bugs
 
 ## REFERENCES
 
